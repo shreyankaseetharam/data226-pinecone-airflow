@@ -1,3 +1,5 @@
+PS C:\Users\abish\OneDrive\Desktop> docker desktop start
+Docker Desktop is already running
 PS C:\Users\abish\OneDrive\Desktop> docker version
 Client:
  Version:           29.9.3
